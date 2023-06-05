@@ -1,0 +1,58 @@
+{
+	"backtrace" : 5,
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"add_custom_target",
+			"find_package"
+		],
+		"files" : 
+		[
+			"/opt/ros/noetic/share/moveit_ros_planning/cmake/moveit_ros_planningConfig.cmake",
+			"/opt/ros/noetic/share/catkin/cmake/catkinConfig.cmake",
+			"universal_robot/ur_kinematics/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 2
+			},
+			{
+				"command" : 1,
+				"file" : 2,
+				"line" : 6,
+				"parent" : 0
+			},
+			{
+				"file" : 1,
+				"parent" : 1
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 76,
+				"parent" : 2
+			},
+			{
+				"file" : 0,
+				"parent" : 3
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 184,
+				"parent" : 4
+			}
+		]
+	},
+	"id" : "moveit_ros_planning_gencfg::@afd47f8e8c1a2938ebbe",
+	"name" : "moveit_ros_planning_gencfg",
+	"paths" : 
+	{
+		"build" : "universal_robot/ur_kinematics",
+		"source" : "universal_robot/ur_kinematics"
+	},
+	"sources" : [],
+	"type" : "UTILITY"
+}
