@@ -604,10 +604,6 @@ industrial_robot_status_interface/industrial_robot_status_interface.h
 kdl/frames.hpp
 -
 
-/home/liuyongyu/catkin_ws/src/Universal_Robots_ROS_Driver/ur_robot_driver/src/dashboard_client_ros.cpp
-ur_robot_driver/dashboard_client_ros.h
--
-
 /home/liuyongyu/catkin_ws/src/Universal_Robots_ROS_Driver/ur_robot_driver/src/hardware_interface.cpp
 pluginlib/class_list_macros.hpp
 -
